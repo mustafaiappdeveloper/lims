@@ -1,3 +1,2 @@
 # lims
-mustafa ch
-author - mustafa raza my new project
+This is my new project
